@@ -51,25 +51,4 @@
     "hitPoints": 13
   }
 ],
-  "outcome": [
-  {
-    "Time": "21/02/2021",
-    "Winner": "Baddie                                            ",
-  },
-  {
-    "Time": "21/02/2021",
-    "Winner": "Heroes                                           ",
-  },
-  {
-    "Time": "21/02/2021",
-    "Winner": "Villains                                            ",
-  },
-  {
-    "Time": "21/02/2021",
-    "Winner": "Heroes                                            ",
-  }
-],
-  "profile": {
-    "name": "maxbarrah1"
-}
-}
+  
