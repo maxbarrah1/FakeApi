@@ -1,4 +1,4 @@
-
+{
   "heroes": [
   {
     "heroID": 1,
@@ -68,4 +68,7 @@
     "Time": "21/02/2021",
     "Winner": "Heroes                                            ",
   }
-]
+],
+  "profile": {
+    "name": "maxbarrah1"
+}
