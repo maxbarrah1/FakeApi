@@ -1,0 +1,35 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Captain Swinburne",
+      "minDice": 1,
+      "maxDice": 6,
+      "uses": 2
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "minDice": 10,
+      "maxDice": 20,
+      "uses": 2
+    }
+  ],
+  "villains": [
+    {
+      "id": 1,
+      "name": "Russell Sprout"
+    },
+    {
+      "id": 2,
+      "name": "Due date Jenny"
+    },
+    {
+      "id": 3,
+      "name": "Taxation Tony"
+    } 
+  ],
+  "profile": {
+    "name": "SwinburneSWD"
+  }
+}
