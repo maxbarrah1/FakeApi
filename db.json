@@ -51,4 +51,22 @@
     "hitPoints": 13
   }
 ]
+  "outcome": [
+  {
+    "Time": 1,
+    "Winner": "Baddie                                            ",
+  },
+  {
+    "Time": 10:06,
+    "Winner": "Heroes                                           ",
+  },
+  {
+    "Time": 4:15,
+    "Winner": "Villains                                            ",
+  },
+  {
+    "Time": 9:05,
+    "Winner": "Heroes                                            ",
+  },
+]
 }
