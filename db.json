@@ -3,13 +3,13 @@
   {
     "heroID": 1,
     "hName": "Captain Hero                                      ",
-    "minDice": 1,
-    "maxDice": 6,
-    "uses": 3
+    "minDice": 5,
+    "maxDice": 20,
+    "uses": 5
   },
   {
     "heroID": 2,
-    "hName": "HeroMan                                           ",
+    "hName": "Hero Man                                           ",
     "minDice": 3,
     "maxDice": 10,
     "uses": 4
