@@ -1,35 +1,53 @@
 {
   "heroes": [
-    {
-      "id": 1,
-      "name": "Captain Swinburne",
-      "minDice": 1,
-      "maxDice": 6,
-      "uses": 2
-    },
-    {
-      "id": 2,
-      "name": "Superman",
-      "minDice": 10,
-      "maxDice": 20,
-      "uses": 2
-    }
-  ],
-  "villains": [
-    {
-      "id": 1,
-      "name": "Russell Sprout"
-    },
-    {
-      "id": 2,
-      "name": "Due date Jenny"
-    },
-    {
-      "id": 3,
-      "name": "Taxation Tony"
-    } 
-  ],
-  "profile": {
-    "name": "SwinburneSWD"
+  {
+    "heroID": 1,
+    "hName": "Captain Hero                                      ",
+    "minDice": 1,
+    "maxDice": 6,
+    "uses": 3
+  },
+  {
+    "heroID": 2,
+    "hName": "HeroMan                                           ",
+    "minDice": 3,
+    "maxDice": 10,
+    "uses": 4
+  },
+  {
+    "heroID": 3,
+    "hName": "The Bulk                                          ",
+    "minDice": 1,
+    "maxDice": 6,
+    "uses": 3
+  },
+  {
+    "heroID": 4,
+    "hName": "The Law                                           ",
+    "minDice": 1,
+    "maxDice": 6,
+    "uses": 3
   }
-}
+],
+  "villains": [
+  {
+    "villainID": 1,
+    "vName": "Baddie                                            ",
+    "hitPoints": 7
+  },
+  {
+    "villainID": 2,
+    "vName": "Dr Evil                                           ",
+    "hitPoints": 18
+  },
+  {
+    "villainID": 3,
+    "vName": "Anh                                               ",
+    "hitPoints": 20
+  },
+  {
+    "villainID": 4,
+    "vName": "Big Bad                                           ",
+    "hitPoints": 13
+  }
+]
