@@ -1,4 +1,4 @@
-{
+
   "heroes": [
   {
     "heroID": 1,
@@ -69,4 +69,3 @@
     "Winner": "Heroes                                            ",
   }
 ]
-}
